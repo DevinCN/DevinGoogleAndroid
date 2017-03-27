@@ -21,5 +21,4 @@
 * [第16章 网络应用\(Web Apps\)](chapter16.md)
 * [第17章 最佳实践\(Best Practices\)](chapter17.md)
 * [总结](zongjie.md)
-* [第17章 最佳实践\(Best Practices\)](chapter17.md)
 
