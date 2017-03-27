@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [第1章 简介\(Introduction\)](chapter1.md)
+* [第1章 Android 简介\(Introduction\)](chapter1.md)
   * [1.1](chapter1/part1.md)
 * [第2章 平台架构\(Platform Architecture\)](chapter2.md)
   * [2.1](chapter2/part1.md)
@@ -21,4 +21,3 @@
 * [第16章 网络应用\(Web Apps\)](chapter16.md)
 * [第17章 最佳实践\(Best Practices\)](chapter17.md)
 * [总结](zongjie.md)
-
