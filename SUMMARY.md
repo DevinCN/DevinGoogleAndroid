@@ -2,9 +2,10 @@
 
 * [简介](README.md)
 * [第1章 Android 简介\(Introduction\)](chapter1.md)
-  * [1.1](chapter1/part1.md)
+  * [1.1.Application Fundamentals](chapter1/part1.1.md)
+  * [1.2.Device Compatibility](chapter1/part1.2.md)
+  * [1.3.System Permissions](chapter1/part1.3.md)
 * [第2章 平台架构\(Platform Architecture\)](chapter2.md)
-  * [2.1](chapter2/part1.md)
 * [第3章 应用组件\(App Components\)](chapter3.md)
 * [第4章 应用资源\(App Resources\)](chapter4.md)
 * [第5章 应用清单\(App Manifest\)](chapter5.md)
@@ -21,3 +22,4 @@
 * [第16章 网络应用\(Web Apps\)](chapter16.md)
 * [第17章 最佳实践\(Best Practices\)](chapter17.md)
 * [总结](zongjie.md)
+
