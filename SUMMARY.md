@@ -6,6 +6,7 @@
   * [1.2.Device Compatibility](chapter1/part1.2.md)
   * [1.3.System Permissions](chapter1/part1.3.md)
 * [第2章 平台架构\(Platform Architecture\)](chapter2.md)
+  * [part2.1](chapter2/part2.1.md)
 * [第3章 应用组件\(App Components\)](chapter3.md)
 * [第4章 应用资源\(App Resources\)](chapter4.md)
 * [第5章 应用清单\(App Manifest\)](chapter5.md)
