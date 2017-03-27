@@ -11,7 +11,7 @@
 * [第6章 用户界面\(User Interface\)](chapter6.md)
 * [第7章 动画和图形\(Animation and Graphics\)](chapter7.md)
 * [第8章 计算\(Computation\)](chapter8.md)
-* [第9章 \(Media Apps\)](chapter9.md)
+* [第9章 Media Apps(Media Apps\)](chapter9.md)
 * [第10章 媒体和相机\(Media and Camera\)](chapter10.md)
 * [第11章 位置和传感器\(Location and Sensors\)](chapter11.md)
 * [第12章 连接\(Connectivity\)](chapter12.md)
