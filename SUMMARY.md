@@ -1,13 +1,13 @@
 # Summary
 
 * [简介](README.md)
-* [第1章 Introduction](chapter1.md)
+* [第1章 简介(Introduction)](chapter1.md)
   * [1.1](chapter1/part1.md)
-* [第2章 Platform Architecture](chapter2.md)
+* [第2章 平台架构(Platform Architecture)](chapter2.md)
   * [2.1](chapter2/part1.md)
-* [第3章](chapter3.md)
-* [第4章](chapter4.md)
-* [第5章](chapter5.md)
+* [第3章 应用组件(App Components)](chapter3.md)
+* [第4章 App Resources](chapter4.md)
+* [第5章 App Manifest](chapter5.md)
 * [第6章](chapter6.md)
 * [第7章](chapter7.md)
 * [第8章](chapter8.md)
