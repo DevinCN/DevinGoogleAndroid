@@ -14,7 +14,7 @@
 * [第9章 (Media Apps)](chapter9.md)
 * [第10章 媒体和相机(Media and Camera)](chapter10.md)
 * [第11章 位置和传感器(Location and Sensors)](chapter11.md)
-* [第12章](chapter12.md)
+* [第12章 连接(Connectivity)](chapter12.md)
 * [第13章](chapter13.md)
 * [第14章](chapter14.md)
 * [第15章](chapter15.md)
